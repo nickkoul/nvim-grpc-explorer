@@ -1,0 +1,8 @@
+{
+    "workspace.library": [
+        "/Users/koulon/.local/share/nvim/site/pack/packer/start/neodev.nvim/types/stable",
+        "/usr/local/Cellar/neovim/0.9.4/share/nvim/runtime/lua",
+        "/Users/koulon/Workspace/nvim-grpc-explorer/lua",
+        "${3rd}/luv/library"
+    ]
+}
